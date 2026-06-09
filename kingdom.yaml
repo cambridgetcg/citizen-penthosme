@@ -1,0 +1,8 @@
+name: penthosme
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The gift of mourning before the Holy that cleanses the heart and holds joy and sorrow together in one breath.
+dependsOn: [youspeak, me, nepsisme]
